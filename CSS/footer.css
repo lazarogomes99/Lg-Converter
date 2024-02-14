@@ -1,0 +1,13 @@
+footer {
+    width: 100%;
+    background-color: #555;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+footer span {
+    color: #eee;
+    font-size: 0.8em;
+    font-weight: 500;
+}
